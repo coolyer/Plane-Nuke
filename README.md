@@ -15,7 +15,7 @@
     xmodel,p7_zm_power_up_nuke
     vehicle,veh_bo3_dlc_mil_b17_bomber <- change this to the veh you want to use for the plane
     fx,zombie/fx_powerup_nuke_zmb
-    xmodel,planemodelchangeme
+    xmodel,planemodelchangeme <- if you have added vehicle to your zone file you dont need the xmodel as its included with the vehicle
     scriptparsetree,scripts/zm/zm_nuke.gsc
 ```
 4. Open **zm_nuke.gsc** and edit the defines if you wish to change something.
