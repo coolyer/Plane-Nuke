@@ -1,4 +1,4 @@
-# ZM_NUKE A plane drops a nuke
+# Plan Nuke A plane drops a nuke
 **Author:** Coolyer  
 **⚠️ Please credit if used.**
 
